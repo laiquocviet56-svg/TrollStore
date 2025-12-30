@@ -46,7 +46,7 @@ local Tabs = {
 	Main0 = Window:AddTab({ Title = "Cặc Buồi" }),  -- 👈 đổi tên tab 1
 	Main1 = Window:AddTab({ Title = "Grow A Garden" }),  -- 👈 đổi tên tab 2
 	Main2 = Window:AddTab({ Title = "Steal A Braninot" }),     -- 👈 đổi tên tab 3
-	Main3 = Window:AddTab({ Title = "Tsb (Tech)" }),        -- 👈 đổi tên tab 4
+	Main3 = Window:AddTab({ Title = "Tsb Tech" }),        -- 👈 đổi tên tab 4
 	Main4 = Window:AddTab({ Title = "Blox Fruits" }),    -- 👈 đổi tên tab 5
 	Main5 = Window:AddTab({ Title = "Plant A Barinot" }) -- 👈 đổi tên tab 6
 }
